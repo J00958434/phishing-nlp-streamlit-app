@@ -15,7 +15,7 @@ nltk.download('vader_lexicon')
 st.title("Phishing Email NLP Analysis")
 
 # Load dataset
-df = pd.read_csv("CEAS_08.csv")  # change if needed
+df = pd.read_csv("Ling.csv")  # change if needed
 
 # -------------------------
 # DATASET DISPLAY
